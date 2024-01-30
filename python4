@@ -1,0 +1,23 @@
+# print the square of the number.
+
+if __name__ == '__main__':
+   a = 0
+   b = a*a
+   print(b)
+   
+   c = 1
+   d = c*c
+   print(d)
+   
+   e = 2
+   f = e*e
+   print(f)
+   
+   g = 3
+   h = g*g
+   print(h)
+   
+   i = 4
+   j = i*i
+   print(j)
+   
